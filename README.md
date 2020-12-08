@@ -5,4 +5,4 @@ The main goal of the project was to develop a doubly-linked list with iterators 
 ##### removeAllElements()
 Was supposed to delete all elements using iterators.
 ##### split(...)
-Was supposed to remove elements from the from a given individual key, to a second individual key with a given direction.
+Was supposed to remove elements from a given individual key, to a second individual key with a given direction.
